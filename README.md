@@ -7,7 +7,8 @@ Usage
 ------
 
 * Press Middle Mouse Button.
-* Then Choose size of webcontents you like by clicking Left Mouse Button.
+* Rotate Wheel Mouse Button to zoom up/down web content.
+* Then Choose size of web content you like by clicking Left Mouse Button.
 * But if you click Middle Mouse Button again, It would be back to defalut size.
 * you can also scroll up and down by moving your mouse, while Pochittona Icon is displayed.
 
