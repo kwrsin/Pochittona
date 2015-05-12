@@ -44,5 +44,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://www.geocities.jp/kwrsin/Safari_Extensions/Pochittona.plist</string>
 </dict>
 </plist>
