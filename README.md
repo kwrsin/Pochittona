@@ -15,6 +15,7 @@ Usage
 * you can also scroll up and down by moving your mouse, while Pochittona Icon or cross Icon is displayed.
 
 Pochittona Icon
+
 ![Pochittona Icon](https://raw.githubusercontent.com/kwrsin/Pochittona/master/Pochittona.safariextension/Images/icon_mouse.png)
 
 
