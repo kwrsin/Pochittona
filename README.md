@@ -15,7 +15,9 @@ Usage
 * you can also scroll up and down by moving your mouse, while Helicopter[^1] Icon or cross Icon is displayed.
 
 
-[^1]: ![Pochittona Icon](https://raw.githubusercontent.com/kwrsin/Pochittona/master/Pochittona.safariextension/Images/icon_mouse.png)
+[^1]:
+
+![Pochittona Icon](https://raw.githubusercontent.com/kwrsin/Pochittona/master/Pochittona.safariextension/Images/icon_mouse.png)
 
 
 Download
