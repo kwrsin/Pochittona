@@ -1,3 +1,9 @@
+/*
+ * Copyright Shintaro Kawara 2015
+ * MIT License : https://github.com/kwrsin/Pochittona/blob/master/LICENSE
+ */
+
+
 (function(){
 var POCHITTONA = {
 isDisplay: false,
