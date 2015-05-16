@@ -12,9 +12,10 @@ Usage
 * Rotate Wheel Mouse Button to zoom in/out on web content.
 * Then Choose size of web content you like by clicking Left Mouse Button.
 * But if you click Middle Mouse Button again, It would be back to defalut size.
-* you can also scroll up and down by moving your mouse, while Pochittona Icon or cross Icon is displayed.
+* you can also scroll up and down by moving your mouse, while Helicopter Icon or cross Icon is displayed.
 
-Pochittona Icon
+
+[Helicopter Icon]
 
 ![Pochittona Icon](https://raw.githubusercontent.com/kwrsin/Pochittona/master/Pochittona.safariextension/Images/icon_mouse.png)
 
